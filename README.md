@@ -8,5 +8,6 @@ niñita
 * Trucos muy locos del profesor
 * Creado por el equipo Platzi
 * Incluye ejemplos
+* Disponible para todas las edades
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo (dos tres cuatro cinco)
