@@ -7,5 +7,10 @@ niñita
 * Todos los comandos de git
 * Trucos muy locos del profesor
 * Creado por el equipo Platzi
+<<<<<<< HEAD
+=======
+* Incluye ejemplos
+* Disponible para todas las edades
+>>>>>>> readme-mejorado
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo (dos tres cuatro cinco)
