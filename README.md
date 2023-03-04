@@ -6,5 +6,6 @@ niñita
 ## En este curso vemos de todo:
 * Todos los comandos de git
 * Trucos muy locos del profesor
+* Creado por el equipo Platzi
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo (dos tres cuatro cinco)
